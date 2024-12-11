@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="IMAGES">
+    <file>Images/vote.png</file>
+  </qresource>
+</RCC>

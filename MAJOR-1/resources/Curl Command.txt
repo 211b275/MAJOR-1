@@ -1,0 +1,2 @@
+curl -X POST -F "file=@C:/Users/Acer/OneDrive/Desktop/MAJOR-1/GE India 2024.xlsx" "http://127.0.0.1:5000/upload-excel"
+curl -X POST -F "file=@C:/Users/Acer/OneDrive/Desktop/MAJOR-1/phase_data.xlsx" "http://127.0.0.1:5000/upload-excel"
